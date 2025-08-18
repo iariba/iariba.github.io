@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #112643; /* Main background */
+  --sec: #457b9d; /* Secondary */
+  --ter: #a8dadc; /* Tertiary */
+  --font: #f1faee; /* Highlight text */
+  --cta: #e63946; /* CTA */
+  scroll-behavior: smooth;
+}
