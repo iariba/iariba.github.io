@@ -16,7 +16,7 @@ interface Project {
       title: "AI-Driven Retail Dashboard",
       description:
         "Real-time inventory & sales analytics with MERN, sockets, and role-based access.",
-      image: "../../images/welcome-1.png",
+      image: "/images/welcome-1.png",
       github: "https://github.com/iariba/AI_Retail_Dashboard.git",
       readMore: "/projects/retail-dashboard",
     },
@@ -24,7 +24,7 @@ interface Project {
       title: "Little Lemon",
       description:
         "A responsive restaurant website including food ordering, table reservation, and online menu.",
-      image: "../../images/res-hero1.jpeg",
+      image: "/images/res-hero1.jpeg",
       github: "https://github.com/iariba/little-lemon.git",
       readMore: "/projects/sales-forecaster",
     },
@@ -32,7 +32,7 @@ interface Project {
       title: "ML Flask API",
       description:
         "Built a flask api for demand segmentation, customer clustering and mba analysis which returns result in pdf reports.",
-      image: "../../images/flask2.jpg",
+      image: "/images/flask2.jpg",
       github: "https://github.com/iariba/flask_api.git",
       readMore: "/projects/portfolio-v2",
     },
