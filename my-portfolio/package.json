@@ -1,6 +1,5 @@
-
-
-{"homepage": "https://github.com/iariba/iariba.github.io.git",
+{
+  "homepage": "https://github.com/iariba/iariba.github.io.git",
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -10,11 +9,9 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
-  
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@tailwindcss/vite": "^4.1.11",
