@@ -4,7 +4,7 @@ export default function Education() {
   const educationData = [
     { title: "Matriculation – 2019", institute: "CGS School" },
     { title: "Intermediate – 2021", institute: "KIPS College" },
-    { title: "BSCS – 2025", institute: "Your University" },
+    { title: "BSCS – 2025", institute: "Lahore Garrison University" },
   ];
 
   return (
